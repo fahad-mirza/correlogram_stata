@@ -1,6 +1,6 @@
-# Correlation Matrix Visualizaion | Correlogram (Using Stata)
+# Correlation Plot | Correlogram (Using Stata)
 
-Using the built in Stata dataset (sysuse auto), I generate a weighted visualization of correlation (correlogram) that makes use of color friendly tones with a diverging color palette from blue to brown.
+Using the built in Stata dataset (sysuse auto), I generate a weighted visualization of a correlation matrix that makes use of color friendly tones with a diverging color palette from blue to brown.
 
 I personally have not seen this visual previously in Stata (if there is one please let me know!).
 
